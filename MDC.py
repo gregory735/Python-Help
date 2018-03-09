@@ -43,5 +43,5 @@ cont=0
 
     
     
-    
+
 print("MDC: ",soma)
